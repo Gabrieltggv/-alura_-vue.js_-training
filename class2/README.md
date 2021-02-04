@@ -1,5 +1,5 @@
-###Learned content
+#Learned content
 
-1.1 _Removing the styles that the browser automatically creates_ 
-1.2 _How static, relative, and absolute element placement works_ 
-1.3 _How to position the header of our page_
+*1.1 Removing the styles that the browser automatically creates 
+*1.2 How static, relative, and absolute element placement works
+*1.3 How to position the header of our page
