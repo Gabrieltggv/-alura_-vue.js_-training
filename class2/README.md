@@ -18,3 +18,12 @@ active, when an element is being activated by the user*
 * *That, with CSS, we can place a background image in an element*
 * *When placing a background image on an element, the CSS, by default, copies and pastes the image several times until it occupies the entire space of the element*
 * *The Unicode table*
+
+* *O textarea, para entradas de texto de mais de uma linha*
+* *O input do tipo radio*
+* *Como agrupar vários input do tipo radio, impedindo que mais de um input seja selecionado*
+* *O input do tipo checkbox*
+* *Que podemos criar um input dentro de um label, assim associando-os*
+* *Mais estilizações para a nossa página*
+* *Como funciona a hierarquia no CSS*
+* *O select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor*
